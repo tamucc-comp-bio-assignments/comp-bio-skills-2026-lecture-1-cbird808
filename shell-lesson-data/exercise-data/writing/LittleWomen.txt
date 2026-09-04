@@ -1,0 +1,9 @@
+Little Women
+
+This file is included as a text document for command-line practice.
+The assignment does not require reading or modifying its contents.
+
+CHAPTER ONE
+
+Four sisters sat together on a winter evening, each occupied with her own thoughts and work.
+They talked about family, plans, disappointments, and the small pleasures that made home cheerful.

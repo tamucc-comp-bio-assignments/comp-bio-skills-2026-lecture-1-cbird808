@@ -1,0 +1,3 @@
+A quiet terminal
+Directories become paths
+Commands shape the work
